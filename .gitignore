@@ -1,0 +1,42 @@
+# ASP.NET Core
+bin/
+obj/
+**/appsettings*.json
+wwwroot/lib/
+wwwroot/css/
+wwwroot/js/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+*.csproj.user
+*.dbmdl
+*.dbproj.user
+*.jfm
+*.jfm.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+**/publish/
+
+# Visual Studio Code
+*.code-workspace
+
+# Other
+*.pdb
+*.mdb
+*.log
+*.vspscc
+*.vssscc
+
